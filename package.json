@@ -1,0 +1,9 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve -l 3000",
+    "build": "echo 'No build required'",
+    "start": "npx serve -l 3000"
+  }
+}
